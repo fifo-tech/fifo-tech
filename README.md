@@ -1,15 +1,18 @@
 ### Assalamualaiqum 🏳️ 
-![I am MARN stacks web developer.  ](https://media.licdn.com/dms/image/D5612AQEo1QzVMFM_0g/article-cover_image-shrink_600_2000/0/1705299879627?e=1710979200&v=beta&t=jPKBI_dem_quwFVHPWAsRnKIvCRpdG3QodWFhD86IL4)
+![I am MARN stacks web developer.  ](https://media.licdn.com/dms/image/v2/D5612AQEo1QzVMFM_0g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1705299879627?e=1751500800&v=beta&t=f0wmR3Cp7WtXaP1dTZs1bCj7NMsCLO4vzTLiUVZvPP8)
 
 FIFOTech is one of the leading BPO service providers in Bangladesh. We provide a full range of IT/ITES services considering customer satisfaction. Our expert Business Process Outsourcing Solutions enrich the client’s company benefits and boost their business process.
 
-Work-With: Node / Express.Js / MongoDB / React.Js / Next.Js / JS / HTML / CSS
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fifo-tech&theme=darkhub&margin-w=4&margin-h=8" alt="GitHub Trophy" style="object-fit: contain;" />
+</div>
+<br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fifo-tech&label=Profile%20views&color=0e75b6&style=flat" alt="fifo-tecah" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fifo-tech" alt="fifo-tech" /></a> </p>
-
-- 📫 How to reach us **github@fifo-tech.com**
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=fifo-tech&label=Profile%20views&color=0e75b6&style=flat" alt="fifo-tech" /> 
+  <img src="https://img.shields.io/github/followers/fifo-tech?label=Followers&style=social" alt="fifo-tech followers"/>
+  <img src="https://img.shields.io/github/stars/fifo-tech?label=Stars&style=social" alt="fifo-tech stars"/> 
+</div>
 
 ###
 <div align="center">
